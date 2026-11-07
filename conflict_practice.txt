@@ -1,1 +1,1 @@
-Project Name: University Portal API
+Project Name: College Management API
