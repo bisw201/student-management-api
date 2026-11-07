@@ -38,3 +38,5 @@ def health_check():
             "Status" : "Healthy",
             "database" : "Connected"
         }
+
+# Student search feature development
